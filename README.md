@@ -1,5 +1,5 @@
 # ArcPy-GIS-Scripts
-# ArcPy GIS Scripts
+# ArcPy GIS Scripts - Analysis/
 
 A collection of ArcPy scripts for ArcGIS Pro automation, geoprocessing, and spatial analysis.
 
