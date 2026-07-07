@@ -5,11 +5,11 @@ A collection of ArcPy scripts for ArcGIS Pro automation, geoprocessing, and spat
 
 ## Scripts Included
 
-- Buffer Analysis
-- Clip (Coming Soon)
-- Dissolve (Coming Soon)
-- Merge (Coming Soon)
-- Intersect (Coming Soon)
+- Buffer 
+- Clip 
+- Dissolve 
+- Merge 
+- Intersect 
 
 ## Requirements
 
